@@ -1,1 +1,1 @@
-Game link - [Cubethon](https://ashutoshsharma4306.github.io)
+Game link - [Cubethon](https://cubethon.glitch.me/)
